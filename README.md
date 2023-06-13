@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Fix Multi-GPU resume bug (#7328)
