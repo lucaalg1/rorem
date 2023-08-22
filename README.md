@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
