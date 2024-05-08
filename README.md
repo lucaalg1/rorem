@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+OBB: Fix plot_images (#7592)
