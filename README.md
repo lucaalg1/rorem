@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
