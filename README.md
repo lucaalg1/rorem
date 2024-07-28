@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Update TFLite Docs images (#8605)
