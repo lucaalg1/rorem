@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Update docs building code (#7601)
