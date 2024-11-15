@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
